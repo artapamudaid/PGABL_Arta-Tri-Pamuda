@@ -1,0 +1,1 @@
+https://huggingface.co/artapamudaid/legal-assistant-indonesia-qwen25-qlora-merged-16bit
